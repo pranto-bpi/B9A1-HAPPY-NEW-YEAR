@@ -1,0 +1,110 @@
+body {
+     padding: 0;
+     margin: 0;
+     font-family: 'Merriweather', serif;
+     font-family: 'Open Sans', sans-serif;
+     font-family: 'Inter', sans-serif;
+
+
+}
+
+/* banner section  */
+.banner {
+     margin: 50px 140px;
+     padding: 140px;
+     background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../asset/resources/Banner\ Image.png');
+     background-size: cover;
+     background-position: center;
+     align-items: center;
+     justify-content: center;
+     border-radius: 16px;
+
+}
+
+.banner-greting {
+     color: #fff;
+     text-align: center;
+     font-size: 32px;
+}
+
+.banner-title {
+     color: #FFF;
+     text-align: center;
+     font-size: 72px;
+     line-height: 95px;
+}
+
+/* offer section */
+.offer {
+     text-align: center;
+     margin-bottom: 48px;
+     margin-left: 6px;
+     margin-right: 8px;
+
+}
+
+.offer-discount {
+     color: #f00;
+     font-size: 88px;
+     font-weight: 700;
+
+}
+
+.offer-description {
+     color: #f00;
+     font-size: 24px;
+     font-weight: 500;
+     line-height: normal
+}
+
+.offer-title {
+     color: #070211;
+     font-size: 48px;
+     font-weight: 700;
+}
+
+.offer-pic {
+     margin-bottom: 120px;
+}
+
+/* welcome party section */
+.welcome {
+     margin: 50px 140px;
+     padding: 140px;
+     background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../asset/resources/Vectorrr.png);
+     background-size: cover;
+     background-position: center;
+     align-items: center;
+     justify-content: center;
+     border-radius: 16px;
+     display: flex;
+
+}
+
+.welcome-title {
+     color: #FFF;
+     font-size: 64px;
+     font-weight: 900;
+     line-height: 88px;
+     letter-spacing: 7.04px;
+}
+
+.welcome-description {
+     color: rgba(255, 255, 255, 0.88);
+     font-size: 18px;
+     line-height: 30px;
+     margin-top: 24px;
+     margin-bottom: 48px;
+     margin-right: 39px;
+
+}
+
+.wlc-btn {
+     border-radius: 5px;
+     border: 0;
+     background: #FD6E0A;
+     font-weight: 700;
+     color: white;
+     font-size: 20px;
+     padding: 15px 35px;
+}
