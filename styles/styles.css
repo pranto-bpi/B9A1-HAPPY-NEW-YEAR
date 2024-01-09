@@ -132,3 +132,37 @@ body {
 
 
 }
+/* portfolio section */
+
+.Portfolio{
+    margin: 50px 140px;
+     padding: 140px; 
+}
+
+
+.portfolio-greting{
+     color: #f00;
+     font-size: 24px;
+}
+
+.portfolio-description{
+     color: rgba(0, 0, 0, 0.60);
+     font-size: 20px;
+     font-weight: 400;
+}
+
+.portfolio-title{
+     color: #070211;
+     font-size: 48px;
+     font-weight: 900;
+}
+.portfolio-pic1{
+     display: flex;
+     gap: 24px;
+     margin-top: 48px;
+     margin-bottom: 24px;
+}
+.portfolio-pic2{
+     display: flex;
+     gap: 24px;
+}
