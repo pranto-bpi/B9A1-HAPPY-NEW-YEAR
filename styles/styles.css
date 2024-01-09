@@ -166,3 +166,47 @@ body {
      display: flex;
      gap: 24px;
 }
+/* subscribe section  */
+.subscribe-container{
+     margin: 50px 140px;
+     padding: 140px;
+     border-radius: 16px;
+     background: rgba(255,0, 0, 0.05);
+     justify-content: center;
+     text-align: center;
+
+}
+.subscribe-title{
+     font-size: 36px;
+     color: #070211;
+     font-weight: 700;
+     margin-top: 40px;
+
+}
+.subscribe-description{
+     font-size: 20px;
+     font-weight: 400;
+     color: rgba(7, 2, 17, 0.60);
+     margin-bottom: 40px;
+}
+.Subscribe-from{
+     display: flex;
+     justify-content: center;
+     align-items: center;
+}
+.Subscribe-from input{
+     padding: 10px;
+     margin-right: 10px;
+     width: 250px;
+
+
+}
+.Subscribe-from button{
+     padding: 10px 20px;
+     background-color: #da1b0e;
+     color: white;
+     border-radius: 5px;
+     cursor: pointer;
+    
+}
+
